@@ -158,3 +158,5 @@ This project focuses on enhancing student learning engagement through progress f
 3. Open the HTML file (`index.html`) in any modern browser.
 4. Start learning, watching, and generating certificates!
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/da8f7e04-c3f6-4164-9c62-11eac09b8a4b)
